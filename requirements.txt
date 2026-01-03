@@ -1,0 +1,16 @@
+FastAPI
+uvicorn
+pydantic
+sqlalchemy
+python-multipart
+aiofiles
+openai==0.28.0
+numpy
+scikit-learn
+pytest
+pytest-asyncio
+PyPDF2 
+python-docx
+chromadb
+sentence-transformers
+python-dotenv
